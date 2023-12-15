@@ -11,13 +11,16 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/tony-skorik-35b921a5/)  
 
+## Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TonySkorik&show_icons=true&locale=en&layout=compact" alt="TonySkorik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TonySkorik&show_icons=true&locale=en" alt="TonySkorik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TonySkorik&" alt="sujaykundu777" /></p>
 
 <!--
 **TonySkorik/TonySkorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
