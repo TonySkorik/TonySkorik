@@ -17,6 +17,10 @@
 ## Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/tony-skorik-35b921a5/)  
 
+<!-- Uncomment when ready
+![Metrics](/github-metrics.svg)
+-->
+
 ## Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TonySkorik&show_icons=true&locale=en&layout=compact" alt="TonySkorik" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TonySkorik&show_icons=true&locale=en" alt="TonySkorik" /></p>
