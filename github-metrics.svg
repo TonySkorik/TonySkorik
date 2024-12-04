@@ -225,7 +225,7 @@
                     <rect mask="url(#languages-bar)" x="370.8432460657254" y="0" width="28.660384684629697" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="399.5036307503551" y="0" width="21.05064790313075" height="8" fill="#4B6C4B"/>
                     <rect mask="url(#languages-bar)" x="420.5542786534859" y="0" width="20.204072944305928" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="440.7583515977918" y="0" width="11.497894180181852" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.7583515977918" y="0" width="11.497894180181852" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="452.2562457779737" y="0" width="7.743754222026398" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
@@ -267,7 +267,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -1325,13 +1325,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Dec 2024, 05:20:48 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 05:21:00 (timezone Asia/Dubai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
