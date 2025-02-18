@@ -24,7 +24,7 @@
 ## Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TonySkorik&show_icons=true&locale=en&layout=compact" alt="TonySkorik" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TonySkorik&show_icons=true&locale=en" alt="TonySkorik" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TonySkorik&" alt="TonySkorik" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TonySkorik" alt="GitHub Streak" /></a></p>
 
 <!--
 **TonySkorik/TonySkorik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
